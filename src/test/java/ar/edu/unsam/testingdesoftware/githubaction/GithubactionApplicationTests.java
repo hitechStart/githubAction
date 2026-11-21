@@ -14,7 +14,7 @@ class GithubactionApplicationTests {
 
 	@Test
 	void pruebaQueFallaYLuegoSeCorrige(){
-		assertEquals(2,1);
+		assertEquals(1,1);
 	}
 
 }
